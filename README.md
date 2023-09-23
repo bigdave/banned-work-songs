@@ -12,6 +12,7 @@ This is a list of songs which are banned from being played in the workplace. Thi
 - ["(I've had) The Time of My Life" by Bill Medley and Jennifer Warnes](https://en.wikipedia.org/wiki/(I%27ve_Had)_The_Time_of_My_Life) - suggestive themes
 - ["It's Five O'Clock Somewhere" by Alan Jackson and Jimmy Buffett](https://en.wikipedia.org/wiki/It%27s_Five_O%27Clock_Somewhere) - timezones; failure to comply with UTC
 - [Kid Rock](https://en.wikipedia.org/wiki/Kid_Rock); all songs - terrible
+- ["Know Your Enemy" by Rage Against The Machine](https://en.wikipedia.org/wiki/Know_Your_Enemy_(Rage_Against_the_Machine_song)) - compromise, conformity, assimilation, submission, ignorance, hypocrisy, brutality, the elite; All of which are American dreams
 - ["My Heart Will Go On" by Celine Dion](https://en.wikipedia.org/wiki/My_Heart_Will_Go_On) - suggestive themes; The [Titanic](https://en.wikipedia.org/wiki/Titanic)
 - ["Pony" by Ginuwine](https://en.wikipedia.org/wiki/Pony_(Ginuwine_song)) - suggestive themes
 - ["Puff, the Magic Dragon" by Peter, Paul, and Mary](https://en.wikipedia.org/wiki/Puff,_the_Magic_Dragon) - promoting opium consumption
