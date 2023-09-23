@@ -10,6 +10,7 @@ This is a list of songs which are banned from being played in the workplace. Thi
 - ["I Saw Mommy Kissing Santa Claus" by Tommie Connor](https://en.wikipedia.org/wiki/I_Saw_Mommy_Kissing_Santa_Claus) - suggestive themes; infidelity through collusion
 - ["I'm a Slave 4 U" by Britney Spears](https://en.wikipedia.org/wiki/I%27m_a_Slave_4_U) - suggestive themes
 - ["(I've had) The Time of My Life" by Bill Medley and Jennifer Warnes](https://en.wikipedia.org/wiki/(I%27ve_Had)_The_Time_of_My_Life) - suggestive themes
+- ["It's Five O'Clock Somewhere" by Alan Jackson and Jimmy Buffett](https://en.wikipedia.org/wiki/It%27s_Five_O%27Clock_Somewhere) - timezones; failure to comply with UTC
 - [Kid Rock](https://en.wikipedia.org/wiki/Kid_Rock); all songs - terrible
 - ["My Heart Will Go On" by Celine Dion](https://en.wikipedia.org/wiki/My_Heart_Will_Go_On) - suggestive themes; The [Titanic](https://en.wikipedia.org/wiki/Titanic)
 - ["Pony" by Ginuwine](https://en.wikipedia.org/wiki/Pony_(Ginuwine_song)) - suggestive themes
