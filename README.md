@@ -3,6 +3,7 @@ This is a list of songs which are banned from being played in the workplace. Thi
 
 ## English Songs
 - ["Achy Breaky Heart" by Billy Ray Cyrus](https://en.wikipedia.org/wiki/Achy_Breaky_Heart) - terrible song; has been played enough times already
+- ["Baby, It's Cold Outside" by Frank Loesser](https://en.wikipedia.org/wiki/Baby,_It%27s_Cold_Outside) - tobacco use
 - ["Baby Shark"](https://en.wikipedia.org/wiki/Baby_Shark) - ceaseless stupidity
 - ["Cheeseburger in Paradise" by Jimmy Buffet](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise) - terrible song; glutony
 - ["Friday" by Rebecca Black](https://en.wikipedia.org/wiki/Friday_(Rebecca_Black_song)) - terrible song; wrong 6 out of 7 days
