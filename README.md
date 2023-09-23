@@ -1,5 +1,5 @@
 # Banned Work Songs
-This is a list of songs which are banned from being played in the workplace, for professional, public consumption, to be used by managers and leaders.
+This is a list of songs which are banned from being played in the workplace. This list is for professional, public consumption, to be used by managers and leaders.
 
 ## English Songs
 - ["Achy Breaky Heart" by Billy Ray Cyrus](https://en.wikipedia.org/wiki/Achy_Breaky_Heart) - terrible song; has been played enough times already
