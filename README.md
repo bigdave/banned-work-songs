@@ -6,7 +6,7 @@ This is a list of songs which are banned from being played in the workplace. Thi
 - ["Baby Shark"](https://en.wikipedia.org/wiki/Baby_Shark) - ceaseless stupidity
 - ["Cheeseburger in Paradise" by Jimmy Buffet](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise) - terrible song; glutony
 - ["Friday" by Rebecca Black](https://en.wikipedia.org/wiki/Friday_(Rebecca_Black_song)) - terrible song; wrong 6 out of 7 days
-- ["Hokey Pokey"] - unsafe movements
+- ["Hokey Pokey"](https://en.wikipedia.org/wiki/Hokey_Pokey) - unsafe bodily movements
 - ["I Saw Mommy Kissing Santa Claus" by Tommie Connor](https://en.wikipedia.org/wiki/I_Saw_Mommy_Kissing_Santa_Claus) - suggestive themes; infidelity through collusion
 - ["I'm a Slave 4 U" by Britney Spears](https://en.wikipedia.org/wiki/I%27m_a_Slave_4_U) - suggestive themes
 - ["(I've had) The Time of My Life" by Bill Medley and Jennifer Warnes](https://en.wikipedia.org/wiki/(I%27ve_Had)_The_Time_of_My_Life) - suggestive themes
