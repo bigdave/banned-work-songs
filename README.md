@@ -2,11 +2,12 @@
 This is a list of songs which are banned from being played in the workplace. This list is for professional, public consumption, to be used by managers and leaders.
 
 ## English Songs
-- ["Achy Breaky Heart" by Billy Ray Cyrus](https://en.wikipedia.org/wiki/Achy_Breaky_Heart) - terrible song; has been played enough times already
+- ["Achy Breaky Heart" by Billy Ray Cyrus](https://en.wikipedia.org/wiki/Achy_Breaky_Heart) - has been played enough times already
 - ["Baby, It's Cold Outside" by Frank Loesser](https://en.wikipedia.org/wiki/Baby,_It%27s_Cold_Outside) - tobacco use
 - ["Baby Shark"](https://en.wikipedia.org/wiki/Baby_Shark) - ceaseless stupidity
 - ["Cheeseburger in Paradise" by Jimmy Buffet](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise) - terrible song; glutony
-- ["Friday" by Rebecca Black](https://en.wikipedia.org/wiki/Friday_(Rebecca_Black_song)) - terrible song; wrong 6 out of 7 days
+- ["Dark Horse" by Katy Perry](https://en.wikipedia.org/wiki/Dark_Horse_(Katy_Perry_song)) - lazy songwriting with pedestrian and/or nonsensical lyrics that are simple, embarrassing prototypes of formulaic pop music that preys on people’s subconscious attachments to recognition of familiar melodies and vocal phrasings
+- ["Friday" by Rebecca Black](https://en.wikipedia.org/wiki/Friday_(Rebecca_Black_song)) - terrible song; inappropriate 6 out of 7 days
 - ["Hokey Pokey"](https://en.wikipedia.org/wiki/Hokey_Pokey) - unsafe bodily movements
 - ["I Saw Mommy Kissing Santa Claus" by Tommie Connor](https://en.wikipedia.org/wiki/I_Saw_Mommy_Kissing_Santa_Claus) - suggestive themes; infidelity through collusion
 - ["I'm a Slave 4 U" by Britney Spears](https://en.wikipedia.org/wiki/I%27m_a_Slave_4_U) - suggestive themes
