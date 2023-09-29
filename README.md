@@ -16,7 +16,7 @@ This is a list of songs which are banned from being played in the workplace. Thi
 - [Kid Rock](https://en.wikipedia.org/wiki/Kid_Rock); all songs - terrible
 - ["Know Your Enemy" by Rage Against The Machine](https://en.wikipedia.org/wiki/Know_Your_Enemy_(Rage_Against_the_Machine_song)) - compromise, conformity, assimilation, submission, ignorance, hypocrisy, brutality, the elite; All of which are American dreams
 - ["My Heart Will Go On" by Celine Dion](https://en.wikipedia.org/wiki/My_Heart_Will_Go_On) - suggestive themes; The [Titanic](https://en.wikipedia.org/wiki/Titanic)
-- ["Never Gonna Give You Up" by Rick Astley](https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up) - too often used to harrass disliked coworkers
+- ["Never Gonna Give You Up" by Rick Astley](https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up) - should not be played unironically; used only to harass coworkers
 - ["Pony" by Ginuwine](https://en.wikipedia.org/wiki/Pony_(Ginuwine_song)) - suggestive themes
 - ["Puff, the Magic Dragon" by Peter, Paul, and Mary](https://en.wikipedia.org/wiki/Puff,_the_Magic_Dragon) - promoting opium consumption
 - ["Thong Song" by Sisqó](https://en.wikipedia.org/wiki/Thong_Song) - suggestive themes; mainly just about butts
