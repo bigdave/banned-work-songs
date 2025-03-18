@@ -21,3 +21,4 @@ This is a list of songs which are banned from being played in the workplace. Thi
 - ["Puff, the Magic Dragon" by Peter, Paul, and Mary](https://en.wikipedia.org/wiki/Puff,_the_Magic_Dragon) - promoting opium consumption
 - ["Thong Song" by Sisqó](https://en.wikipedia.org/wiki/Thong_Song) - suggestive themes; mainly just about butts
 - ["What's New Pussycat?" by Tom Jones](https://en.wikipedia.org/wiki/What%27s_New_Pussycat%3F) - retired; [Associated John Mulaney story](https://www.youtube.com/watch?v=Tv1l1eUhN-E)
+- ["Waiting for Tonight" by Jennifer Lopez](https://en.wikipedia.org/wiki/Waiting_for_Tonight) - suggestive themes; setting unrealistic expectations for tonight
